@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/TPFinal_LucianaFrias_GeronimoPiton_RosarioO\xF1a.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
